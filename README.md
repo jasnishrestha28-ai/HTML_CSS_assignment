@@ -20,8 +20,8 @@ Teacher's Lecture
      learned about classes id difference between them learned about styling the webpage by adding different background colors editing fonts font-sizes type and all from basics to flexbox create card navigation bar and so on.
     -I used them because they are all the basics to create a attractive webpage. 
     -I used them all in this assignment as they were all the things i requried to complete the assignment. 
-Gemini(AI)
-    -I learned how to properly center cards how to add transition in hover add semi colors(2 color mix/blend) in backgrounds how to properly use flex and used it in this assignment.
+chatgpt(AI)
+   I learned how to align and center cards correctly, apply smooth transition effects when hovering, and create blended or semi-transparent backgrounds using multiple colors. I also improved my understanding of Flexbox and applied it effectively while completing this assignment.
 
 ## Navigation Bar
 
