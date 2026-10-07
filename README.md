@@ -6,7 +6,7 @@ BscSE(Fundamentals of Software Engineering)
 Level-4 Sem-1
 Navigation Bar and Card Design
 
-I created a webpage (student portal) where i have inserted a navigation bar and right below it i have our courses where i have built 6 different cards containing each different courses.
+I created a webpage for travelling interested people where i have inserted a navigation bar and right below it i have our places where i have built 6 different cards containing each different places.
 
 The technologies that i have used in this work are 
     HTML5
@@ -16,7 +16,7 @@ The technologies that i have used in this work are
     Responsive CSS
 
 Teacher's Lecture 
-    -I learned the difference between generic <div> tags and semantic tags, as well as how to control element spacing using margin and padding.
+    -I learned the difference between generic div tags and semantic tags, as well as how to control element spacing using margin and padding.
      learned about classes id difference between them learned about styling the webpage by adding different background colors editing fonts font-sizes type and all from basics to flexbox create card navigation bar and so on.
     -I used them because they are all the basics to create a attractive webpage. 
     -I used them all in this assignment as they were all the things i requried to complete the assignment. 
